@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-leaflet-geosearch/static/css/main.2cce8147.chunk.css",
+    "main.js": "/test-leaflet-geosearch/static/js/main.6eb86240.chunk.js",
+    "main.js.map": "/test-leaflet-geosearch/static/js/main.6eb86240.chunk.js.map",
+    "runtime~main.js": "/test-leaflet-geosearch/static/js/runtime~main.3b7e0ed8.js",
+    "runtime~main.js.map": "/test-leaflet-geosearch/static/js/runtime~main.3b7e0ed8.js.map",
+    "static/js/2.a651859a.chunk.js": "/test-leaflet-geosearch/static/js/2.a651859a.chunk.js",
+    "static/js/2.a651859a.chunk.js.map": "/test-leaflet-geosearch/static/js/2.a651859a.chunk.js.map",
+    "index.html": "/test-leaflet-geosearch/index.html",
+    "precache-manifest.e7c867ad3dbb36ebc9b425dadd5247a9.js": "/test-leaflet-geosearch/precache-manifest.e7c867ad3dbb36ebc9b425dadd5247a9.js",
+    "service-worker.js": "/test-leaflet-geosearch/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/test-leaflet-geosearch/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/test-leaflet-geosearch/static/media/logo.5d5d9eef.svg"
+  }
+}
